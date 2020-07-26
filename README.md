@@ -22,7 +22,7 @@ In a statement,
 
 ## 2. Data
 
-The original data came from the [Kaggle Event Prediction](https://www.kaggle.com/c/allstate-event-prediction-challenge/data)(https://github.com/chang/Allstate-Event-Prediction-Hackathon/tree/master/data).
+The original data came from the [Kaggle Event Prediction](https://www.kaggle.com/c/allstate-event-prediction-challenge/data).
 
 unfortunately, the data is not found on Kaggle anymore. Howevever, we've downloaded from [Github](https://github.com/chang/Allstate-Event-Prediction-Hackathon/tree/master/data).
 
